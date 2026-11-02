@@ -23,3 +23,11 @@ Observed behavior:
 Expected behavior:
 
 The generated root `next-env.d.ts` output stays stable across local commands, or the docs/tooling make the intended ignore-and-typegen workflow clearer.
+
+---
+
+## Support
+
+If this project is useful to you, you can support my work:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zfaka)
